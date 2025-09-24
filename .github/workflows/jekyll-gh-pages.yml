@@ -51,8 +51,4 @@ jobs:
         uses: actions/deploy-pages@v4
 
 
-            ---
-    layout: null
-    permalink: /old-page-path/
-    redirect_to: https://aboutmelist.us/click?camp=63&pubid=1
-    ---
+            
