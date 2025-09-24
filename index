@@ -1,7 +1,7 @@
 <?php
 $request_uri = $_SERVER['REQUEST_URI'];
 if ($request_uri !== '/' && $request_uri !== '/index.php') {
-    header("Location: https://aboutmelist.us/click?camp=63&pubid=1");
+    header("Location: https://go.pcntrk.com/click?o=18&a=41&link_id=24&sub_id1=github");
 
     exit;
 }
